@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again</string>
+    <string name="main_menu">Main menu</string>
+    <string name="count_of_answers">У вас %s правильных ответов и %s неправильных</string>
+    <string name="choose_level_title">Выберите режим игры:</string>
+    <string name="easy_level">Easy</string>
+    <string name="medium_level">Medium</string>
+    <string name="hard_level">Hard</string>
+    <string name="wrong_notification">Увы! Правильный ответ был %s!</string>
+</resources>
